@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import Navigation from '../src/components/Navigation/top_bar.vue'
+import Footer from '../src/components/Footer/FooterComponent.vue'
 import {RouterView} from 'vue-router'
 </script>
 
@@ -8,6 +9,7 @@ import {RouterView} from 'vue-router'
   <main class="flex items-center justify-center">
     <RouterView/>
   </main>
+  <Footer/>
 </template>
 
 <style scoped>
