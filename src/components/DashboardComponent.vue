@@ -8,7 +8,7 @@
             <span class="text-2xl font-semibold text-gray-800 dark:text-gray-200">Welcome to PetConnect</span>
         </p>
         <p class="mt-4 text-gray-600 dark:text-gray-300">
-            PetConnect is a social media platform for pet lovers. <br> It is a place where pet lovers can connect with other pet lovers, share their pet stories, and learn more about pets.
+            
         </p>
     </div>
 
