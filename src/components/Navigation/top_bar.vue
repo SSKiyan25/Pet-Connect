@@ -1,6 +1,6 @@
 <template>
 <nav class="bg-[#6892D5] border-gray-200 dark:bg-gray-900">
-  <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-6">
+  <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
         <img src="/pet-connect-logo.png" class="h-12" alt="Logo" />
         <span class="self-center text-3xl font-semibold whitespace-nowrap text-[#FFFFFF]">PetConnect</span>
@@ -17,8 +17,7 @@
         <li>
           <router-link to="/contactUs" class="block py-3 px-4 text-[#FFFFFF] rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-[#344561] md:p-0 dark:text-white md:dark:hover:text-sky-400/25 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact Us</router-link>
         </li>
-        
-      </ul>
+      </ul>  
     </div>
   </div>
 </nav>
