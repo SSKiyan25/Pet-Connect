@@ -6,7 +6,7 @@ import {RouterView} from 'vue-router'
 
 <template>
   <Navigation/>
-  <main class="flex items-center justify-center">
+  <main>
     <RouterView/>
   </main>
   <Footer/>
