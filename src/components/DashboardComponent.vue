@@ -20,7 +20,7 @@
             <div class="flex flex-row mt-3">
                 <img src="/pet-connect-logo.png" class="h-8 w-auto mt-3 ml-8">
                 <p class="mt-5 ml-2 text-gray-600 dark:text-gray-300">
-                Submit the adoption application form
+                Submit the adoption application form test
                 </p>
             </div>
             <div class="flex flex-row mt-6 justify-center">
