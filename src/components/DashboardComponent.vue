@@ -2,7 +2,7 @@
     <div class="flex flex-row justify-between px-24 space-x-8 w-full h-fit mt-28">
         <div class="flex-auto w-32 h-48 rounded sm:w-96 dark:bg-gray-700">
             <h1 class="mb-4 text-2xl font-extrabold leading-none tracking-tight text-gray-900 md:text-3xl lg:text-5xl dark:text-white">Welcome to PetConnect!</h1>
-            <p class="mt-6 ml-2 mr-12 text-justify text-sm text-gray-600 dark:text-gray-300">
+            <p class="mt-6 ml-2 mr-12 text-justify text-sm sm:text-sm text-gray-600 dark:text-gray-300">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae efficitur turpis, vitae consectetur arcu. Integer sed ipsum non lacus tempus blandit sed in nibh. Suspendisse pharetra scelerisque laoreet. Donec ac aliquet urna. Proin non felis suscipit, gravida tellus vel, iaculis sapien. Ut eu cursus justo. Donec vulputate viverra urna, in pellentesque augue hendrerit vel. Here's how to adopt a pet:
             </p>
             <div class="flex flex-row mt-3">
@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="flex-auto w-64 items-center md-flex-row h-48 rounded sm:w-96">
-            <div id="default-carousel" class="relative w-full" data-carousel="slide">
+            <div id="default-carousel" class="relative w-full" data-carousel="slide" style="z-index:1">
                 <!-- Carousel wrapper -->
                 <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
                     <!-- Item 1 -->
@@ -86,6 +86,13 @@
         </div>
     </div>
     <div class="flex flex-row flex-wrap h-screen md-flex-row">
+        <div class="flex flex-row ">
+            <div class="flex-auto">
 
+            </div>
+        </div>
+        <div>
+
+        </div>
     </div>
 </template>
